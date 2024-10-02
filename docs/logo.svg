@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#170404" x="0" y="0" width="512" height="512" rx="10"></rect>
+        <path d="M186.169004,253.487467 L179.370442,254.452834 C140.176624,260.018194 111.049964,293.572891 111.049964,333.159867 L111.049964,333.159867 C111.049964,372.901494 139.95435,406.740469 179.207365,412.953176 L528.049964,468.165674 L460.12883,201.877714 C450.925434,165.795371 424.390645,136.646752 389.329096,124.103796 L378.320793,120.165674 C340.713485,106.711996 299.155464,125.05241 283.748247,161.902495 L273.755172,185.803351 C258.527759,222.223392 225.252183,247.937817 186.169004,253.487467 Z" id="Path-24" stroke="#BE1514" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" transform="translate(319.549964, 282.165674) rotate(123.000000) translate(-319.549964, -282.165674) "></path>
+    </g>
+</svg>

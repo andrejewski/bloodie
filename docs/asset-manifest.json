@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://jew.ski/bloodie/static/css/main.1d17b892.css",
+    "main.js": "https://jew.ski/bloodie/static/js/main.e44b28f8.js",
+    "index.html": "https://jew.ski/bloodie/index.html",
+    "main.1d17b892.css.map": "https://jew.ski/bloodie/static/css/main.1d17b892.css.map",
+    "main.e44b28f8.js.map": "https://jew.ski/bloodie/static/js/main.e44b28f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d17b892.css",
+    "static/js/main.e44b28f8.js"
+  ]
+}
